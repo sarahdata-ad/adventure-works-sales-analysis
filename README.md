@@ -1,3 +1,6 @@
+# Adventure Works – Sales Analysis
+### Power BI Dashboard Project
+
 ## Dashboard Overview
 
 ### 1. Executive Dashboard
