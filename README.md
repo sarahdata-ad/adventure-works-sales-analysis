@@ -18,6 +18,18 @@ This project focuses on analyzing the Adventure Works dataset using Microsoft Po
 ## Dashboard
 
 ### Executive Dashboard
+
+The Executive Dashboard provides an overview of business performance through key metrics and visualizations.
+
+It includes:
+- Weekly Revenue
+- Monthly Revenue
+- Orders by Category
+- Top 10 Products by Orders and Revenue
+- Returns Analysis
+- Most Ordered Product Type
+- Most Returned Product Type
+
 ![Executive Dashboard](executive-dashboard.png)
 
 ### Customer Details
