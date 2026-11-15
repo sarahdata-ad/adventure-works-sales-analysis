@@ -56,3 +56,16 @@ Provides a geographical view of business activity through an interactive map, al
 - Visual Exploration of Business Distribution across regions.
 
 ![Map Dashboard](map-dashboard.png)
+
+## Key Business Insights
+
+Based on the analysis of the Adventure Works dataset, the following business insights were identified:
+
+- **Revenue Performance:** The business generated approximately $24.91M in total revenue and $10.46M in profit.
+- **Product Category Performance:** Accessories recorded the highest order volume, with approximately 17K orders.
+- **Monthly Revenue Growth:** Revenue increased by 3.31% compared to the previous month, reaching $1.83M.
+- **Order Trends:** Monthly orders decreased slightly by 0.88%, indicating a small decline in order volume.
+- **Returns Analysis:** Monthly returns decreased by 1.78%, while the overall return rate stood at 2.17%.
+
+These insights help understand business performance, identify product trends and monitor changes in customer purchasing activity.
+
