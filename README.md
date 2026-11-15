@@ -1,49 +1,55 @@
-# Adventure Works – Power BI Sales Analysis
+## Dashboard Overview
 
-## Project Overview
-This project focuses on analyzing the Adventure Works dataset using Microsoft Power BI to understand business performance and generate meaningful insights.
+### 1. Executive Dashboard
 
-## Tools Used
-- Microsoft Power BI
-- Power Query Editor
-- DAX
+Provides a high-level overview of overall business performance through key performance indicators (KPIs) and interactive visualizations.
 
-## Project Tasks
-- Data cleaning and transformation using Power Query Editor.
-- Data modeling and creating relationships.
-- Creating measures using DAX.
-- Building interactive dashboards and visualizations.
-- Analyzing sales performance and business trends.
-
-## Dashboard
-
-### Executive Dashboard
-
-The Executive Dashboard provides an overview of business performance through key metrics and visualizations.
-
-It includes:
-- Weekly Revenue
-- Monthly Revenue
-- Orders by Category
-- Top 10 Products by Orders and Revenue
-- Returns Analysis
-- Most Ordered Product Type
-- Most Returned Product Type
+**Key Features:**
+- Revenue, Profit, Total Orders and Return Rate KPIs.
+- Weekly and Monthly Revenue Trends.
+- Orders by Product Category.
+- Top 10 Products Analysis based on Orders, Revenue and Return Percentage.
+- Monthly Orders and Returns Analysis.
+- Identification of the Most Ordered and Most Returned Product Types.
 
 ![Executive Dashboard](executive-dashboard.png)
 
-### Customer Details
+### 2. Customer Details Dashboard
+
+Focuses on customer analysis to understand customer growth, purchasing behavior and revenue contribution.
+
+**Key Features:**
+- Total Unique Customers and Revenue per Customer.
+- Customer Growth Trends over time.
+- Customer Distribution across Income Levels.
+- Top 100 Customers ranked by Orders and Revenue.
+- Identification of the Highest Revenue-Generating Customer.
+- Year-based filtering for customer analysis.
+
 ![Customer Details](customer-detail.png)
 
-### Product Details
+### 3. Product Details Dashboard
+
+Provides an in-depth analysis of individual product performance, profitability and returns, with interactive options to explore different product metrics.
+
+**Key Features:**
+- Monthly Orders, Revenue and Profit compared against Targets.
+- Interactive Product Selection.
+- Price Adjustment Parameter to analyze adjusted profitability.
+- Comparison of Total Profit and Adjusted Profit.
+- Product Returns Trend Analysis.
+- Dynamic Product Metric Selection.
+- Automated Report Summary highlighting key performance trends.
+
 ![Product Details](product-detail.png)
 
-### Map Dashboard
+### 4. Map Dashboard
+
+Provides a geographical view of business activity through an interactive map, allowing users to explore different geographical regions.
+
+**Key Features:**
+- Interactive Geographic Visualization.
+- Regional Filtering across Europe, North America and Pacific.
+- Visual Exploration of Business Distribution across regions.
+
 ![Map Dashboard](map-dashboard.png)
-
-
-## Key Learnings
-- Data cleaning and transformation.
-- Data visualization.
-- Creating interactive reports.
-- Extracting business insights from data.
