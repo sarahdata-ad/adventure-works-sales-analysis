@@ -16,7 +16,19 @@ This project focuses on analyzing the Adventure Works dataset using Microsoft Po
 - Analyzing sales performance and business trends.
 
 ## Dashboard
-Dashboard screenshots will be added soon.
+
+### Executive Dashboard
+![Executive Dashboard](executive-dashboard.png)
+
+### Customer Details
+![Customer Details](customer-detail.png)
+
+### Product Details
+![Product Details](product-detail.png)
+
+### Map Dashboard
+![Map Dashboard](map-dashboard.png)
+
 
 ## Key Learnings
 - Data cleaning and transformation.
