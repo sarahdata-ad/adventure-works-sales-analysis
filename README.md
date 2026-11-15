@@ -69,3 +69,12 @@ Based on the analysis of the Adventure Works dataset, the following business ins
 
 These insights help understand business performance, identify product trends and monitor changes in customer purchasing activity.
 
+## Skills Demonstrated
+
+- **Power BI:** Creating interactive dashboards and reports.
+- **Power Query:** Data cleaning and transformation.
+- **DAX:** Creating measures and calculated metrics.
+- **Data Visualization:** Presenting business data through charts, KPIs and maps.
+- **Business Analysis:** Identifying trends and interpreting business performance.
+- **Interactive Reporting:** Using slicers, filters and parameters for dynamic analysis.
+
